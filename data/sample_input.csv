@@ -1,0 +1,6 @@
+duration,proto,service,state,sbytes,dbytes,sttl,dttl,sloss,dloss,spkts,dpkts
+0.001,tcp,http,FIN,100,200,254,254,0,0,5,5
+0.002,udp,dns,INT,50,100,128,128,0,0,2,2
+0.003,tcp,ftp,CON,500,1000,64,64,0,0,10,8
+0.004,icmp,-,INT,28,0,255,0,0,0,1,0
+0.005,tcp,smtp,FIN,150,300,128,128,0,0,6,4
