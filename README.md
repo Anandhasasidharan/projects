@@ -44,7 +44,8 @@ I believe in **learning deeply**, not memorizing. Every project is built from th
 
 
 - 💬 Twitter/X: [@TechAI_Explorer]
-- 🧠 Learning in Public: [https://xplorertech00.wordpress.com/,youtube:https://www.youtube.com/@XplorerTech]
+- 🧠 Learning in Public: [https://xplorertech00.wordpress.com/
+- YOUTUBE:https://www.youtube.com/@XplorerTech]
 
 ---
 
