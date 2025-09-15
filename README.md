@@ -41,8 +41,8 @@ I believe in **learning deeply**, not memorizing. Every project is built from th
 
 ## 📬 Connect with Me
 
-- 📧 Email: [anandhasasidharan492@gmail.com]
-- 🌐 LinkedIn: [http://www.linkedin.com/in/asd01]
+
+
 - 💬 Twitter/X: [@TechAI_Explorer]
 - 🧠 Learning in Public: [https://xplorertech00.wordpress.com/,youtube:https://www.youtube.com/@XplorerTech]
 
