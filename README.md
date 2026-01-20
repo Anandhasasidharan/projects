@@ -27,15 +27,7 @@ Welcome to my GitHub Projects Page! I'm an undergraduate student passionate abou
 
 ---
 
-## 🎯 How I Work (First Principles Thinking)
 
-I believe in **learning deeply**, not memorizing. Every project is built from the ground up — starting from raw data or theory and building to working systems. I document each stage:
-
-1. **Understand the fundamentals**
-2. **Break the problem down**
-3. **Build small, test often**
-4. **Iterate with feedback**
-5. **Explain what I’ve learned**
 
 ---
 
