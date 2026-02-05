@@ -16,7 +16,7 @@ Welcome to my GitHub Projects Page! I'm an undergraduate student passionate abou
 
 | Project Title | Description | Tags |
 |---------------|-------------|------|
-| [🔐 Network Anomaly Risk Scorer](https://github.com/yourusername/cyber_threat_risk_predictor) | ML regression model that predicts threat severity score based on network behavior (UNSW-NB15 dataset). SHAP used for interpretability. | `Cybersecurity` `Regression` `Explainable AI` |
+| [🔐 Network Anomaly Risk Scorer](https://github.com/Anandhasasidharan/projects/tree/main/Network%20Anomaly%20Risk%20Score) | ML regression model that predicts threat severity score based on network behavior (UNSW-NB15 dataset). SHAP used for interpretability. | `Cybersecurity` `Regression` `Explainable AI` |
 
 ## 🛠️ Tech Stack
 
